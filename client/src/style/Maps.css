@@ -1,0 +1,19 @@
+.header-container, .results-container {
+  display: flex;
+  flex-flow: column wrap;
+  margin-top: 10px;
+}
+/*.dashboard {*/
+/*  display: flex;*/
+/*  flex-direction: row;*/
+/*}*/
+
+.Maps {
+  display: flex;
+  flex-direction: row;
+}
+
+.Tables {
+  display: flex;
+  flex-direction: row;
+}
